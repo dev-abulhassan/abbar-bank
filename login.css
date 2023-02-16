@@ -1,0 +1,16 @@
+
+
+
+.login-form{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.input-fild{
+   background-color: coral;
+   padding: 80px 120px;
+}
+.email{
+   display: block;
+}
